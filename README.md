@@ -1,7 +1,7 @@
 # Audit-Course-Assignment
 This Repository contains 3 HTML pages(home, contact, and about) Each page contains a nav header and footer made with CSS & HTML
 
-HTML Tags:
+HTML Tags:<br>
 HEAD: It is a container for metadata. It contains <style> tag.
 STYLE: Used to define CSS for an HTML page.
 BODY: Defines the actual body of the web pages.
